@@ -4,11 +4,8 @@ This is a project that was developed in the Kaggle competition <https://www.kagg
 
 # Busines problem
 
-#Citation
-@misc{playground-series-s3e19,
-    author = {Walter Reade, Ashley Chow},
-    title = {Forecasting Mini-Course Sales},
-    publisher = {Kaggle},
-    year = {2023},
-    url = {https://kaggle.com/competitions/playground-series-s3e19}
-}
+Predict a full year of sales for various different products and stores in different countries. Given years 2017 through 2021, forecast sales for the year 2022.
+
+# Outcome
+
+In the final result of the competition, a performance score of 8.31% was achieved in the SMAPE metric
